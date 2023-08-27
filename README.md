@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Bruce👋
+
 ⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.34 %
 
 ![](https://raw.githubusercontent.com/Swiftie13st/Swiftie13st/main/assets/github-contribution-grid-snake.svg)
