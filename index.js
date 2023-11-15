@@ -19,7 +19,7 @@ const readme = `\
   2
 )} %
 
-![](https://raw.githubusercontent.com/Swiftie13st/Swiftie13st/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Swiftie13st/Swiftie13st/main/assets/github-contribution-grid-snake-dark.svg)
 
 
 <div align="center"> <img src="https://metrics.lecoq.io/Swiftie13st?template=classic&config.timezone=Asia%2FShanghai"> </div>
